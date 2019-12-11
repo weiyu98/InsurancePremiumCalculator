@@ -6,6 +6,9 @@
     <string name="female">Female</string>
     <string name="smoker">Smoker:</string>
     <string name="yes">Yes</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="Result">TextView</string>
     <string-array name="AgeRange">
         <item>Less than 17</item>
         <item>17 - 25</item>
